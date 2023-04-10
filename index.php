@@ -1,0 +1,246 @@
+ <?php
+echo '
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fluxactive® | OFFICIAL SITE</title>
+    <link rel="icon" type="image/png" href="images/favicon.png">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="navbar-container container">
+            <span class="navbar__logo">Fluxactive™</span>
+            <ul class="navbar__menu">
+                <li class="navbar__menu-item"><a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale">Home</a></li>
+                <li class="navbar__menu-item"><a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale">What is Fluxactive?</a></li>
+                <li class="navbar__menu-item"><a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale">About Us</a></li>
+                <li class="navbar__menu-item"><a href="https://fluxactive.net/home/#how">Ingredients</a></li>
+                <li class="navbar__menu-item"><a href="https://fluxactive.net/home/#benefits">Benefits</a></li>
+                <li class="navbar__menu-item"><a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale">Order</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="hero" id="hero">
+        <div class="hero-container container">
+            <img class="hero__img" src="images/hero-img.jpg" alt="">
+            <div>
+                <h1 class="hero__title">Fluxactive™ | Official Store</h1>
+                <h2 class="hero__subtitle">New Revolutionary Supplement</h2>
+                <ul class="hero__list">
+                    <li class="hero__list-item">100% Safe, Natural & Pure</li>
+                    <li class="hero__list-item">Manufactured in USA</li>
+                    <li class="hero__list-item">Free Shipping</li>
+                    <li class="hero__list-item">60-Days Money Back Guarantee</li>
+                </ul>
+                <a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale"><button class="btn hero__btn">Buy Now</button></a>
+            </div>
+        </div>
+    </section>
+
+    <section class="what-is section" id="what-is">
+        <div class="container">
+            <h2 class="subtitle">What is Fluxactive?</h2>
+            <p>Along with the many advantages of Fluxactive that have already been mentioned, using this supplement will also give your teeth a natural shine and whiten them. The dining experience is elevated as the teeth become stronger, and you will no
+                longer have food restrictions. The inclusion of essential vitamins will help teeth issues disappear and keep all bacteria at bay at all times. People of all ages and on all days of the year should take this supplement.</p>
+        </div>
+    </section>
+
+    <section class="about-author section" id="about-author">
+        <div class="container">
+            <h2 class="subtitle">About Author</h2>
+            <p>Greetings, I\'m Marc Hall. I\'m 54 years old, and my wife Martha and I reside in a tiny community close to Charlotte, North Carolina. I\'ve always been enamored with plants and their capacity to maintain our health.</p>
+            <p>As a result, I have done extensive study on some of the best all-natural practices that can be used by anyone to keep teeth healthy.</p>
+            <p>So I developed a blend of fantastic nutrients and plants, including xylitol, collagen, MSM, mint/peppermint, phosphorus, potassium, zinc, vitamins A, C, D3 & K2, that is both straightforward and effective.</p>
+        </div>
+    </section>
+
+    <section class="how-it-works section" id="how-it-works">
+        <div class="container">
+            <h2 class="subtitle">How Does Fluxactive™ Work?</h2>
+            <p>The unusual components and vitamins that have found a home in this supplement are what give it its freshness. You won\'t need any other vitamin or element for your teeth while using this supplement. Fluxactive is a supplement that is now even
+                being praised by dentists who have given it a good grade. Taking care of your teeth is now simple, therefore a supplement is the only way to do it. This is highly beneficial to everyone because it uses a variety of minerals, such as phosphorus.</p>
+        </div>
+    </section>
+
+    <section class="ingredients section" id="ingredients">
+        <div class="container">
+            <h2 class="subtitle">Ingredients of Fluxactive™</h2>
+            <ul class="ingredients__list">
+                <li class="ingredients__list-item">
+                    <p><b>Phosphorus</b> - helps to strengthen gums and teeth, resulting in healthier teeth.</p>
+                    <p><b>Carbopol</b> - is one of the whitening chemicals, however it is harmless and helps to whiten the whole mouth region.</p>
+                    <p><b>Calcium</b> - The tooth\'s composition is improved, and calcium is needed to keep the teeth robust.</p>
+                    <p><b>Sodium Hydroxide</b> - Sodium Hydroxide is an ingredient that gives teeth a healthy sheen and a bright, white color.</p>
+                    <p><b>Vitamin D</b> - In order to keep your teeth healthy, you need to supplement your diet with Vitamin D.</p>
+                </li>
+            </ul>
+            <p>There are several health benefits of using Chinese Ginseng. One may improve blood flow, sleep, and brain function by including this ingredient into their diet. Experts often recommend this ingredient as a way to boost metabolism.</p>
+            <p>Cardiovascular health is aided and appropriate cholesterol levels are encouraged by the use of vitamins E and B3. These vitamins have been shown in studies to improve joint and cartilage health by boosting synovial fluid.</p>
+            <p>Other minerals may be found in the calcium and magnesium found in oat straw. Red blood cell production is the major goal of this component. Additionally, it aids in bone and joint health while simultaneously reducing anxiety and tension.</p>
+            <p>An antioxidant and immune-boosting supplement is Epimedium Sagittatum. Additionally, it has the potential to increase cellular energy generation, which is beneficial to prostate health.</p>
+            <p>When it comes to boosting metabolism and energy levels, the adaptogen and nerve tonic Muira Puama is one of the strongest on the market. In addition, this substance may help you lose weight and improve your sleep. Fluxactive\'s other ingredients
+                include Catuaba, Hawthorn, and Tribulus. Additionally, they have a significant role to play in improving prostate health.</p>
+        </div>
+    </section>
+
+    <section class="benefits section" id="benefits">
+        <div class="container">
+            <h2 class="subtitle">Benefits of Using Fluxactive™</h2>
+            <p>These are the main benefits of Fluxactive:</p>
+
+            <ul class="benefits__list">
+                <li>
+                    <p> It improves the condition of the prostate by removing all of the contributing factors.</p>
+                </li>
+                <li>
+                    <p> It provides fast results and assists guys with prostate issues.</p>
+                </li>
+                <li>
+                    <p> The metabolism and the bladder both benefit from the natural substances in this supplement.</p>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="verdict section">
+        <div class="container">
+            <h2 class="subtitle">Final Verdict</h2>
+            <p>Fluxactive Complete is a dietary supplement that promotes the health of the prostate. Many health issues may be avoided by improving general and prostate health. In the bedroom, men may also improve their stamina, vigor, and performance. Several
+                benefits may be reaped by using this supplement on a regular basis.</p>
+            <p>When you use Fluxactive, you\'ll understand why people are so enamoured with it, and you\'ll feel justified in doing so. If you put your trust in our statements, we can promise that you will be on the winning side. If you don\'t act immediately,
+                you\'ll lose out on the opportunity. This vitamin is being suggested by physicians around the country, and now everyone is aware of it. Try it to see what difference it makes.</p>
+        </div>
+    </section>
+
+    <section class="guarantee section">
+        <div class="container">
+            <img src="images/guarantee.png" alt="">
+            <h2>Our Ironclad 60-day, Money-Back Guarantee</h2>
+            <p>If you are not happy with the benefits Fluxactive has to offer, we will issue a full refund! Just contact us in the first 60 days from your purchase, even if you used up the entire bottle or not, we would still give you your money back. This
+                means you have 2 whole months to see if Fluxactive is the right choice for you or not. No hidden fees or subscriptions. Just a safe and secure one-time simple payment.</p>
+            <p>Make your choice by clicking below, enter your payment details on our secure order form, and place the order now. We will ship your bottles directly to your home.</p>
+        </div>
+    </section>
+
+    <section class="order section" id="order">
+        <div class="container">
+            <h2 class="order__title">I can\'t wait to hear your opinion after</h2>
+            <h3 class="order__subtitle">Trying Fluxactive!</h3>
+            <p class="order__text">Remember! For each order of 3 and 6 bottles you will have a big discount, and every order comes with free shipping, no matter where you live.</p>
+            <div class="order__bottles">
+                <a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale"><img src="images/starter-pack.png" alt=""></a>
+                <a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale"><img src="images/best-value-pack.png" alt=""></a>
+                <a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale"><img src="images/popular-pack.png" alt=""></a>
+            </div>
+        </div>
+    </section>
+
+    <section class="checkout section">
+        <div class="container">
+            <h2 class="checkout__title">“What Happens After I Click The “Buy Now” Button?”</h2>
+            <p class="checkout__text">Once you have clicked the “Buy Now” button that is right below this text, you will be taken to the secure checkout page. Just enter your information, and you will then be given instant access to the entire Fluxactive by Marc Hall</p>
+            <div class="checkout__img">
+                <a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale"><img src="images/checkout.jpg" alt=""></a>
+            </div>
+            <h3>How safe is my credit card information on your website?</h3>
+            <p>Your online privacy is one thing you can be sure we so much prioritize here and thus do not worry about losing any sensitive credentials while making your purchase from us. Besides, you can bank on Clickbank’s excellent reputation and vast
+                experience in online transactions to help you in safeguarding your purchase.</p>
+            <p><b>Remarks: Fluxactive</b> 60-Day Money Back Guarantee</p>
+            <p><b>Refund Policy:</b> If within the first 60 days of receipt you are not satisfied with Fluxactive, you can request a refund by sending an email to the address given inside the product and we will immediately refund your entire purchase price,
+                with no questions asked.</p>
+        </div>
+    </section>
+
+    <section class="links section">
+        <div class="container">
+            <ul class="links__list">
+                <li>
+                    <a href="https://fluxactive.net/home/">
+                        <p>Home</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale">
+                        <p>What is Fluxactive</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://7d0579ohr33mrbnc0l-5jjjfs4.hop.clickbank.net/?tid=sale">
+                        <p>How Does Fluxactive Work</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://fluxactive.net/home/#how">
+                        <p>Ingredients of Fluxactive</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://fluxactive.net/home/#benefits">
+                        <p>Benefits</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://fluxactive.net/help/disclaimer.php">
+                        <p>Disclaimer</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://fluxactive.net/help/privacy.php">
+                        <p>Privacy Policy</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://fluxactive.net/help/terms.php">
+                        <p>Terms of Use</p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Please note that the information we provide is not intended to replace consultation with a qualified medical professional. We encourage you to inform your physician of changes you make to your lifestyle and discuss these with him or her. For
+                questions or concerns about any medical conditions you may have, please contact your doctor.</p>
+            <p>Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition,
+                consult your physician before using our products.</p>
+            <p>The website’s content and the product for sale is based upon the author’s opinion and is provided solely on an “AS IS” and “AS AVAILABLE” basis. You should do your own research and confirm the information with other sources when searching
+                for information regarding health issues and always review the information carefully with your professional health care provider before using any of the protocols presented on this website and/or in the product sold here.</p>
+            <p>ClickBank is the retailer of products on this site. CLICKBANK® is a registered trademark of Click Sales, Inc., a Delaware corporation located at 1444 South Entertainment Ave, Suite 410, Boise, Idaho, 83709, USA and used by permission. ClickBank’s
+                role as retailer does not constitute an endorsement, approval or review of these products or any claim, statement or opinion used in promotion of these products.</p>
+            <p>*For international shipping (outside of the United States), shipping fees will apply. Read more here.</p>
+            <p class="footer__copyright">Copyright © 2022 Fluxactive | All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+
+<script>
+    const links = document.querySelectorAll(".navbar__menu li a");
+
+    for (const link of links) {
+        link.addEventListener("click", clickHandler);
+    }
+
+    function clickHandler(e) {
+        e.preventDefault();
+        const href = this.getAttribute("href");
+        const offsetTop = document.querySelector(href).offsetTop;
+
+        scroll({
+            top: offsetTop,
+            behavior: "smooth"
+        });
+    }
+</script>
+
+</html>
+';
+?>
